@@ -4,7 +4,9 @@
 
 ## 引用方式
 1. 使用cocoapods
+```
     pod 'SJXSignTextView'
+```
 2. 直接将 SJXSignTextView 文件拖入项目
 
 ## 使用方式
