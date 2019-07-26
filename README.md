@@ -1,6 +1,6 @@
 # SJXSignTextView
 在方形的View中自定义左上角或右上角的斜向文字标签
-
+![](https://img2018.cnblogs.com/blog/832322/201907/832322-20190726230720318-1520936948.png)
 
 ## 引用方式
 1. 使用cocoapods
