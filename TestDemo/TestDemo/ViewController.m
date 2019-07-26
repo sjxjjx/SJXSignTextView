@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#import "SJXSignTextView.h"
+#import <SJXSignTextView.h>
 
 @interface ViewController ()
 

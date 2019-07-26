@@ -15,7 +15,6 @@
         self.directionType = TextDirectionTypeRight;
         self.backgroundColor = [UIColor clearColor];
         self.textColor = [UIColor whiteColor];
-        self.bgColor = [UIColor redColor];
         self.textFont = 8.f;
     }
     return self;
@@ -27,7 +26,6 @@
     self.directionType = TextDirectionTypeRight;
     self.backgroundColor = [UIColor clearColor];
     self.textColor = [UIColor whiteColor];
-    self.bgColor = [UIColor redColor];
     self.textFont = 8.f;
 }
 
