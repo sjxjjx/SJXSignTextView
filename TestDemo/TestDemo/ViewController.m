@@ -33,11 +33,7 @@
     
     SJXSignTextView *testV = [[SJXSignTextView alloc] init];
     testV.frame = CGRectMake(60, 0, 40, 40);
-    testV.directionType = TextDirectionTypeRight;
     testV.text = @"测试文字";
-    testV.textColor = [UIColor whiteColor];
-    testV.bgColor = [UIColor redColor];
-    testV.textFont = 8;
     [v addSubview:testV];
 }
 
