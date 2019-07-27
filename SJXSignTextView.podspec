@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name 		= "SJXSignTextView"
-  spec.version      	= "1.0.1"
+  spec.version      	= "1.0.2"
   spec.summary      	= "斜向文字标签"
   spec.description  	= "在方形的View中自定义左上角或右上角的斜向文字标签"
   spec.homepage     	= "https://github.com/sjxjjx/SJXSignTextView"
