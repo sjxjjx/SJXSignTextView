@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
   spec.author		= { "兔·小白" => "sjxjjx@163.com" }
   spec.platform     	= :ios, "9.0"
   spec.source       	= { :git => "https://github.com/sjxjjx/SJXSignTextView.git", :tag => "#{spec.version}" }
-  spec.source_files  	= "SJXSignTextView/**/*.{h,m}"
+  spec.source_files  	= "SJXSignTextView/*.{h,m}"
   
   # spec.resource  	= "icon.png"
   # spec.resources 	= "Resources/*.png"
