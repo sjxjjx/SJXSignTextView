@@ -1,6 +1,6 @@
 # SJXSignTextView
 在方形的View中自定义左上角或右上角的斜向文字标签
-![](https://img2018.cnblogs.com/blog/832322/201907/832322-20190726230720318-1520936948.png)
+![](http://m.qpic.cn/psb?/V11AtDje0Nkzgd/TLuf4ker.ItUKsUSheGGGUaEEVWImgR9CjXlzwbzOno!/b/dLYAAAAAAAAA&bo=qgLABQAAAAADB08!&rf=viewer_4)
 
 blog:[iOS项目之自定义斜向文字标签](https://www.cnblogs.com/sjxjjx/p/11253633.html)
 
